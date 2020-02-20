@@ -43,7 +43,6 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
         }
         return null;
     }
-
     @Nullable
     @Override
     public CharSequence getPageTitle(int position) {
